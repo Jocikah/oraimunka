@@ -13,3 +13,42 @@ p{
     
 
 }
+
+#bal{
+    width: 70%;
+
+
+}
+
+#jobb{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+
+}
+
+.piros{
+    border-right: 3mm double darkred;
+
+}
+
+.kek{
+    margin-bottom: 1cm;
+    border-left: 1mm blueviolet dashed;
+    border-bottom: 2mm blue dashed;
+
+}
+
+.piros1{
+    font-variant: small-caps;
+    color: crimson;
+
+
+}
+
+.kék{
+    font-family: Cambria;
+    font-weight: bolder;
+    color: dodgerblue;
+
+}
